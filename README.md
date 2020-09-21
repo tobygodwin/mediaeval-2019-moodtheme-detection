@@ -1,6 +1,6 @@
-# Solution to the "MediaEval - The 2019 Emotion and Themes in Music using Jamendo" task
+# Solution to the "MediaEval - The 2019 Emotion and Themes in Music using Jamendo" task with Domain Adversarial Training
 
-This repository contains our solution to the 2019 Emotion and Themes in Music using Jamendo task, part of [MediaEval 2019](http://www.multimediaeval.org/mediaeval2019/).
+This repository contains [Manoj Sukhavasi's](https://github.com/manojsukhavasi) and [Sainath Adapa's](https://github.com/sainathadapa) solution to the 2019 Emotion and Themes in Music using Jamendo task, part of [MediaEval 2019](http://www.multimediaeval.org/mediaeval2019/). Submission 2 has been adapted to allow for domain adversarial training.
 
 ## Introduction
 
